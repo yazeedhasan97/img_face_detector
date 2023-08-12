@@ -1,0 +1,21 @@
+{
+  "audit": {
+    "USE_SSH": false,
+    "SSH_USER": "yazeed",
+    "SSH_HOST": "127.0.0.1",
+    "SSH_PRIVATE_KEY": "nah",
+    "DELICATE": "postgresql",
+    "DB_HOST": "localhost",
+    "DB_PORT": 5432,
+    "DB_NAME": "postgres",
+    "DB_USER": "postgres",
+    "DB_PASSWORD": "postgres",
+    "USE_STREAM": false,
+    "USE_URI": true
+  },
+  "run": {
+    "Recursive": true,
+    "input_path": "C:\\Users\\yazee\\PycharmProjects\\PythonWorkshop\\input",
+    "output_path": "C:\\Users\\yazee\\PycharmProjects\\PythonWorkshop\\output"
+  }
+}

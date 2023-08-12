@@ -1,0 +1,10 @@
+sqlalchemy
+pandas
+sqlalchemy
+psycopg2
+sqlalchemy_utils
+face_recognition
+psutil
+watchdog
+sshtunnel
+opencv-python
